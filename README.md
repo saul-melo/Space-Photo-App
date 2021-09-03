@@ -1,4 +1,4 @@
-# Space-Photo-App
+# apod
 
 An application that displays NASA's Astronomy Picture of the Day for iOS written in Swift
 
