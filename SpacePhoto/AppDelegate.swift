@@ -2,15 +2,13 @@
 //  AppDelegate.swift
 //  SpacePhoto
 //
-//  Created by Saul Melo Lira on 10/27/19.
+//  Created by Saul Melo on 10/27/19.
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
     var window: UIWindow?
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         return true
@@ -30,7 +28,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func applicationWillTerminate(_ application: UIApplication) {
     }
-
-
 }
 

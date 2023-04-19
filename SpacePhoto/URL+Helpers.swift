@@ -2,7 +2,7 @@
 //  URL+Helpers.swift
 //  SpacePhoto
 //
-//  Created by Saul Melo Lira on 10/27/19.
+//  Created by Saul Melo on 10/27/19.
 
 import Foundation
 
@@ -20,5 +20,4 @@ extension URL {
         components?.scheme = "https"
         return components?.url
     }
-    
 }

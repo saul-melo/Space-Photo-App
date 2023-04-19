@@ -2,7 +2,7 @@
 //  PhotoInfoController.swift
 //  SpacePhoto
 //
-//  Created by Saul Melo Lira on 10/27/19.
+//  Created by Saul Melo on 10/27/19.
 
 import Foundation
 

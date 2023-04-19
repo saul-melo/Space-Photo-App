@@ -2,12 +2,11 @@
 //  ViewController.swift
 //  SpacePhoto
 //
-//  Created by Saul Melo Lira on 10/27/19.
+//  Created by Saul Melo on 10/27/19.
 
 import UIKit
 
 class ViewController: UIViewController {
-
     @IBOutlet weak var spacePhoto: UIImageView!
     @IBOutlet weak var photoDescriptionLabel: UILabel!
     @IBOutlet weak var copyrightLabel: UILabel!
@@ -53,6 +52,5 @@ class ViewController: UIViewController {
         })
         task.resume()
     }
-
 }
 
